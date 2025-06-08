@@ -7,6 +7,7 @@ This is a simple ReactJS chat UI integrated with AWS Amplify. It uses Vite for d
 1. Install dependencies:
    ```bash
    npm install
+   npm install aws-amplify
    ```
 
 2. Initialize Amplify (follow the prompts):

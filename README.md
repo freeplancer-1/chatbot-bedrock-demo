@@ -7,6 +7,7 @@ This repository contains a sample ReactJS chat application integrated with AWS A
 ```bash
 cd react-chat-app
 npm install
+npm install aws-amplify
 # Configure Amplify (follow CLI prompts)
 npx amplify init
 npx amplify add auth
